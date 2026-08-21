@@ -6,4 +6,4 @@ pengalaman-belajar-gitdangithubdasar
 
 Belajar dasar git dan github 30%
 
-*belajar membuat repo ini dari 0
+* belajar membuat repo ini dari 0

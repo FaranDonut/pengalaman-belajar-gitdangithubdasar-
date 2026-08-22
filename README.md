@@ -3,6 +3,3 @@
 **21 Agustus 2026**<br>
 Belajar dasar git dan github 30%
 * belajar membuat repo ini dari 0
-
-tes
-
